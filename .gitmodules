@@ -1,0 +1,6 @@
+[submodule "server"]
+	path = server
+	url = https://github.com/gprateek015/news-aggregator-server
+[submodule "client"]
+	path = client
+	url = https://github.com/gprateek015/news-aggregator-client
